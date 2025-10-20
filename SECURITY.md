@@ -12,7 +12,11 @@
 ## Reporting a Vulnerability
 
 Report Using the Following Links
+
 Email: eth88438@gmail.com
+
 Github: https://github.com/Ethan88438-EAU
+
 Youtube: https://www.youtube.com/channel/UCo7JoFv6bKAdcpZlKscttcg
+
 Discord: https://discord.gg/HKGJXskjJW
